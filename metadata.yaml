@@ -1,0 +1,29 @@
+_repo: Sodome-et-Gomorrhe---Deuxi-me-partie_15075
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Proust, Marcel
+    birthdate: 1871
+    deathdate: 1922
+    gutenberg_agent_id: '987'
+    url: http://www.gutenberg.org/2009/agents/987
+    wikipedia: http://en.wikipedia.org/wiki/Marcel_Proust
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15075'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Social life and customs -- Fiction'
+- !lcsh 'Autobiographical fiction'
+- !lcc 'PQ'
+title: Sodome et Gomorrhe - Deuxième partie
+url: http://www.gutenberg.org/ebooks/15075
