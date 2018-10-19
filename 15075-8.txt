@@ -11,6 +11,7 @@ Title: Sodome et Gomorrhe--Volume 2
 Author: Marcel Proust
 
 Release Date: February 15, 2005 [EBook #15075]
+Last Updated: November 20, 2017
 
 Language: French
 
@@ -391,7 +392,7 @@ elle! Comme cela elle voyagerait avec nous et nous ferions route tous
 ensemble, ce serait charmant. Il s'agira d'ouvrir l'oeil à Maineville,
 et le bon! Ah! ça ne fait rien, on peut dire que nous avons bien failli
 manquer le coche. Quand j'ai vu le train j'ai été sidéré. C'est ce qui
-s'appelle arriver au moment psychologique. Voyez-vous ça que nous ayions
+s'appelle arriver au moment psychologique. Voyez-vous ça que nous ayons
 manqué le train? Mme Verdurin s'apercevant que les voitures revenaient
 sans nous? Tableau! ajouta le docteur qui n'était pas encore remis de
 son émoi. Voilà une équipée qui n'est pas banale. Dites donc, Brichot,
@@ -2072,7 +2073,7 @@ de «couper» les amitiés bourgeoises de sa jeunesse et de nouer des
 relations qu'elle avait cru d'abord faire partie de la société de sa
 belle-famille et qu'elle s'était aperçue ensuite être situées beaucoup
 plus haut et beaucoup plus loin. Un philosophe qui n'était pas
-assez moderne pour elle, Leibnitz, a dit que le trajet est long de
+assez moderne pour elle, Leibniz, a dit que le trajet est long de
 l'intelligence au coeur. Ce trajet, Mme de Cambremer n'avait pas été,
 plus que son frère, de force à le parcourir. Ne quittant la lecture de
 Stuart Mill que pour celle de Lachelier, au fur et à mesure qu'elle
@@ -2104,7 +2105,7 @@ pas, Madame, que beaucoup de régions forestières tirent leur nom des
 animaux qui les peuplent. A côté de la forêt de Chantepie, vous avez le
 bois de Chantereine.--Je ne sais pas de quelle reine il s'agit, mais
 vous n'êtes pas galant pour elle, dit M. de Cambremer.--Attrapez,
-Chochotte, dit Mme. Verdurin. Et à part cela, le voyage s'est bien
+Chochotte, dit Mme Verdurin. Et à part cela, le voyage s'est bien
 passé?--Nous n'avons rencontré que de vagues humanités qui remplissaient
 le train. Mais je réponds à la question de M. de Cambremer; reine n'est
 pas ici la femme d'un roi, mais la grenouille. C'est le nom qu'elle
@@ -2224,7 +2225,7 @@ propos. Je répondis à Mme de Cambremer, ce qui du reste était vrai, que
 je n'en savais rien, et que d'ailleurs la fiancée me paraissait encore
 bien jeune. «C'est peut-être pour cela que ce n'est pas encore officiel;
 en tout cas on le dit beaucoup.--J'aime mieux vous prévenir, dit
-sèchement Mme Verdurin à Mme. de Cambremer, ayant entendu que celle-ci
+sèchement Mme Verdurin à Mme de Cambremer, ayant entendu que celle-ci
 m'avait parlé de Morel, et, quand elle avait baissé la voix pour me
 parler des fiançailles de Saint-Loup, ayant cru qu'elle m'en parlait
 encore. Ce n'est pas de la musiquette qu'on fait ici. En art, vous
@@ -2471,7 +2472,7 @@ ainsi, forme un tout relativement homogène et clos. Autant il est
 compréhensible que, dans l'immensité disparate de la bourgeoisie, un
 avocat dise à quelqu'un qui connaît un de ses camarades de collège:
 «Mais comment diable connaissez-vous un tel?» en revanche, s'étonner
-qu'un Français connût, le sens du mot «temple» ou «forêt» ne serait
+qu'un Français connût le sens du mot «temple» ou «forêt» ne serait
 guère plus extraordinaire que d'admirer les hasards qui avaient pu
 conjoindre M. de Charlus et la comtesse Molé. De plus, même si une telle
 connaissance n'eût pas tout naturellement découlé des lois mondaines,
@@ -2859,7 +2860,7 @@ Empereur de théâtre. Il est au contraire merveilleusement intelligent,
 il ne s'y connaît pas en peinture, et il a forcé M. Tschudi de retirer
 les Elstir des musées nationaux. Mais Louis XIV n'aimait pas les maîtres
 hollandais, avait aussi le goût de l'apparat, et a été, somme toute, un
-grand souverain. Encore Guillaume Il a-t-il armé son pays, au point de
+grand souverain. Encore Guillaume II a-t-il armé son pays, au point de
 vue militaire et naval, comme Louis XIV n'avait pas fait, et j'espère
 que son règne ne connaîtra jamais les revers qui ont assombri, sur
 la fin, le règne de celui qu'on appelle banalement le Roi Soleil. La
@@ -4400,7 +4401,7 @@ consacrasse la plus grande partie de mes revenus puisque je l'aimais
 comme un fils. Vous en avez décidé autrement. A ma demande que vous me
 rapportiez un livre, vous avez fait répondre que vous aviez à sortir.
 Et ce matin, quand je vous ai fait demander de venir à ma voiture, vous
-m'avez, si je peux, parler ainsi sans sacrilège, renié pour la troisième
+m'avez, si je peux parler ainsi sans sacrilège, renié pour la troisième
 fois. Vous m'excuserez de ne pas mettre dans cette enveloppe les
 pourboires élevés que je comptais vous donner à Balbec et auxquels il
 me serait trop pénible de m'en tenir à l'égard de quelqu'un avec qui
@@ -6019,7 +6020,7 @@ non plus, mais à une qui est morte depuis si longtemps qu'elle n'a plus
 d'adeptes qu'on puisse craindre de froisser). «Nous, malheureusement,
 avec la rentrée des classes, le service d'hôpital du docteur, nous ne
 pouvons jamais bien longtemps élire domicile dans un même endroit.» Et
-lui montrant un carton: «oyez d'ailleurs comme nous autres femmes nous
+lui montrant un carton: «Voyez d'ailleurs comme nous autres femmes nous
 sommes moins heureuses que le sexe fort; pour aller aussi près que chez
 nos amis Verdurin nous sommes obligées d'emporter avec nous toute une
 gamme d'impedimenta.» Moi je regardais pendant ce temps-là le volume de
